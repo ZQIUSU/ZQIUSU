@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LeetCode-algo--practice-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="leetcode"/>
   </a>
   <a href="mailto:andrew_peeng@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-lvyovo01%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
+    <img src="https://img.shields.io/badge/Email-andrew__peeng%40outlook.com-blue?logo=gmail?style=flat-square&logo=gmail&logoColor=white" alt="email"/>
   </a>
   <br/>
   <a href="https://xhslink.com/m/A0RmObjbu2e">
