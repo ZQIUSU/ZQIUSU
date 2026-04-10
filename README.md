@@ -18,3 +18,9 @@
     <img src="https://img.shields.io/badge/Bilibili-小簌ovo-00A1D6?style=flat-square&logo=bilibili&logoColor=white" alt="bilibili"/>
   </a>
 </p>
+
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZQIUSU&theme=nord_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZQIUSU&theme=nord_dark)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZQIUSU&theme=nord_dark&utcOffset=8)
